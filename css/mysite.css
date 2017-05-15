@@ -1,0 +1,71 @@
+
+/*.brand-image{
+	height: 140px;
+}*/
+
+li > a{
+	color: white;
+}
+.navbar-mystyle{
+	background-color: #3b5887;
+	margin-bottom: 5px;
+}
+
+.navbar-mystyle .navbar-nav > li > a:hover,
+.navbar-mystyle .navbar-nav > li > a:focus {
+	color: #6495ed;
+	background-color: transparent;
+}
+
+.navbar-mystyle .navbar-nav > .active > a,
+.navbar-mystyle .navbar-nav > .active > a:hover,
+.navbar-mystyle .navbar-nav > .active > a:focus{
+	color: #6495ed;
+	background-color: #7f5c05;
+}
+.navbar-mystyle .navbar-toggle {
+  border-color: #3f7990;
+}
+.navbar-mystyle .navbar-toggle:hover,
+.navbar-mystyle .navbar-toggle:focus{
+	color: #3b5887;
+	background-color: #191970;
+}
+.navbar-mystyle .navbar-toggle > .icon-bar {
+	background-color: #3f7990;
+}
+.navbar-mystyle .navbar-nav > .open > a,
+.navbar-mystyle .navbar-nav > .open > a:hover,
+.navbar-mystyle .navbar-nav > .open > a:focus{
+	color: #6495ed;
+	background-color: #7f5c05;
+}
+.full-content{
+	padding: 0px;
+}
+.myheader{
+	font-family: 'Black Ops One', cursive;
+	font-size: 70px;
+	margin-bottom: 0;
+}
+.myheader4 {
+	font-family: 'Lobster', cursive;
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+.nopadding {
+	padding: 0px;
+}
+
+
+
+/*
+font-family: 'Lobster', cursive;
+font-family: 'Graduate', cursive;
+font-family: 'Sue Ellen Francisco', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Sigmar One', cursive;
+font-family: 'Yesteryear', cursive;
+font-family: 'Limelight', cursive;
+font-family: 'Black Ops One', cursive;
+*/
