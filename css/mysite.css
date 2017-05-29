@@ -81,7 +81,17 @@ hr {
     border-right: 1px solid #eee;
   }
 }
-
+#navbar-Main {
+	&.affixed-top {
+		background-color: blue;
+	}
+	&.affix {
+		background:yellow;
+		top: 0;
+		left: 0;
+		right: 0;
+	}
+}
 
 
 
