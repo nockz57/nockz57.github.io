@@ -97,6 +97,11 @@ h3 {
 	text-align: center;
 
 }
+.mycontent {
+	font-family: 'Bad Script', cursive;
+	font-size: 16px;
+
+}
 
 
 /*
@@ -108,4 +113,6 @@ font-family: 'Sigmar One', cursive;
 font-family: 'Yesteryear', cursive;
 font-family: 'Limelight', cursive;
 font-family: 'Black Ops One', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Bad Script', cursive;
 */
