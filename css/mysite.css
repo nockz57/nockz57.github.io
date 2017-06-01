@@ -101,8 +101,21 @@ h3 {
 	font-family: 'Bitter', serif;
 	
 }
+.customHeading {
+	font-family: 'Six Caps', sans-serif;
+	font-size: 50px;
+	margin-top: 0px;
+}
+.classic-title {
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    font-weight: 300;
+}
+
 /*
 font-family: 'Lobster', cursive;
 font-family: 'Black Ops One', cursive;
 font-family: 'Bitter', serif;
+font-family: 'Six Caps', sans-serif;
 */
