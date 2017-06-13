@@ -47,11 +47,12 @@ li > a{
 	font-family: 'Black Ops One', cursive;
 	font-size: 70px;
 	margin-bottom: 0;
+	margin-top: 5px;
 }
 .myheader4 {
 	font-family: 'Lobster', cursive;
 	margin-top: 5px;
-	margin-bottom: 0;
+	margin-bottom: 2px;
 }
 .nopadding {
 	padding: 0px;
@@ -111,6 +112,12 @@ h3 {
     padding-bottom: 8px;
     border-bottom: 1px solid #eee;
     font-weight: 300;
+}
+
+  .affix {
+      top: 0;
+      width: 100%;
+      z-index: 1030;
 }
 
 /*
